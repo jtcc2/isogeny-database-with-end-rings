@@ -1,0 +1,1 @@
+{"prime": 29, "nodes": 3, "minpoly": "x^2 + 24*x + 2", "spine": 3, "undirected": false, "ell": {"2": {"diameter": 2, "conjugate_isogenous_pairs": 0}, "3": {"diameter": 2, "conjugate_isogenous_pairs": 0}, "5": {"diameter": 1, "conjugate_isogenous_pairs": 0}, "7": {"diameter": 2, "conjugate_isogenous_pairs": 0}, "11": {"diameter": 1, "conjugate_isogenous_pairs": 0}}}

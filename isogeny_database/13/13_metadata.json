@@ -1,0 +1,1 @@
+{"prime": 13, "nodes": 1, "minpoly": "x^2 + 12*x + 2", "spine": 1, "undirected": true, "ell": {"2": {"diameter": 0, "conjugate_isogenous_pairs": 0}, "3": {"diameter": 0, "conjugate_isogenous_pairs": 0}, "5": {"diameter": 0, "conjugate_isogenous_pairs": 0}, "7": {"diameter": 0, "conjugate_isogenous_pairs": 0}, "11": {"diameter": 0, "conjugate_isogenous_pairs": 0}}}
